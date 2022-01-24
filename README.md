@@ -18,3 +18,5 @@ EDA Part 1: https://public.flourish.studio/story/1113717/
 EDA Part 2: https://public.flourish.studio/story/1113715/
 
 Please refer to EV Consumption PDF attached to see the EDA summary and Modeling Approach. 
+
+Equipped customers with insights about their EVs Hourly energy consumption and helped predict future charging behavior. Created energy consumption-wise clusters and LSTM model for future consumption insights. Designed sample dashboard views with insights and recommendations for customers.
