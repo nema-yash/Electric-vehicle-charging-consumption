@@ -15,7 +15,8 @@ Got an opportunity to work with a home energy consumption monitoring technology 
 1) Dataset provided consisted of ~1200 Households across the USA with one or more EVs of various brands for each Household. 
 2) For each EV hourly energy consumption was provided. 
 3) Columns: House number, State, Zip3, Time, EV0:EV3
-4) Issues: Being an real life dataset, data was not uniformly populated for each EV during the time range. Some EVs had data for 6 months, while some EVs had data for just 3-4 hours.
+4) Rows: 370K
+5) Issues: Being an real life dataset, data was not uniformly populated for each EV during the time range. Some EVs had data for 6 months, while some EVs had data for just 3-4 hours.
 
 ![image](https://user-images.githubusercontent.com/10954081/155168938-8907a009-5c14-41b9-8043-5437458cab40.png)
 
