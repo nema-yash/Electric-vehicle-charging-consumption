@@ -22,20 +22,16 @@ Got an opportunity to work with a home energy consumption monitoring technology 
 **Problem Challenges:**
 
 Hourly EV consumption is impacted by
-•	Car Model: Each Car model can have a different battery capacity and time to charge.
-•	Car Utility: A customer maybe driving every day to work or another customer might be taking out the car only once a week to do nearby shopping, so utilization of the battery life and charging needs may vary. Also it maybe possible that some customers charge their cars everyday even from 80% to 100% and another customer may be charging their car only when battery level reaches 10%.
-•	Geo location: Customer’s location may impact car utility. Staying in remote areas or having limited charging stations in the vicinity might lead the customer to drive longer distances everyday and may end up needing to charge the car more often.
-•	Weather: Conditions may impact the Charging pattern like the extreme environments may impact the battery capacity or battery usage
-•	Charging pattern: Some cars may take charge 50% in 30 minutes and may take another hour for the remaining 50% charge. On the other hand, another car might need 1 hour to charge 50% of the batter and another 1 hour for the remaining 50%.
-•	Battery degradation: As in any electronic device over time the charging pattern may change, and capacity might degrade leading to longer charging times and higher energy consumption.
+1) Car Model: Each Car model can have a different battery capacity and time to charge.
+2) Car Utility: A customer maybe driving every day to work or another customer might be taking out the car only once a week to do nearby shopping, so utilization of the battery life and charging needs may vary. Also it maybe possible that some customers charge their cars everyday even from 80% to 100% and another customer may be charging their car only when battery level reaches 10%.
+3) Geo location: Customer’s location may impact car utility. Staying in remote areas or having limited charging stations in the vicinity might lead the customer to drive longer distances everyday and may end up needing to charge the car more often.
+4) Weather: Conditions may impact the Charging pattern like the extreme environments may impact the battery capacity or battery usage
+5) Charging pattern: Some cars may take charge 50% in 30 minutes and may take another hour for the remaining 50% charge. On the other hand, another car might need 1 hour to charge 50% of the batter and another 1 hour for the remaining 50%.
+6) Battery degradation: As in any electronic device over time the charging pattern may change, and capacity might degrade leading to longer charging times and higher energy consumption.
 
-Please refer to EV Consumption PDF attached to see the EDA summary and Modeling Approach.
+Please refer to EV Consumption PDF attached in repository to see the EDA summary, Modeling Approach and Results. Designed sample dashboard views with insights and recommendations for customers is part of PDF.
 
 To see solution and visuals refer to EV consumption
 EDA Part 1: https://public.flourish.studio/story/1113717/
 
 EDA Part 2: https://public.flourish.studio/story/1113715/
-
- 
-
-Equipped customers with insights about their EVs Hourly energy consumption and helped predict future charging behavior. Created energy consumption-wise clusters and LSTM model for future consumption insights. Designed sample dashboard views with insights and recommendations for customers.
