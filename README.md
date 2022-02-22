@@ -5,7 +5,7 @@
 
 Got an opportunity to work with a home energy consumption monitoring technology company through XN project at Northeastern University from Oct 2021 to Dec 2021 whose goal is to help customers understand their household energy consumption, understand their habits, and ultimately reduce their energy footprint and save money.
 
-**Business Objective: **
+**Business Objective:**
 
 1) To predict based on past charging behavior for a car when and how much energy would a car consume at a Household.
 2) Equip customers with insights on the energy consumption by their EVs and recommend how the customer could save money or make better choices with their EV charging behavior. 
