@@ -3,7 +3,7 @@
 
 Introduction:
 
-Got an opportunity to work with a home monitoring technology company over the last 6 months whose goal was to help people understand their household energy consumption, know what is going on in their homes, and ultimately reduce their energy footprint.
+Got an opportunity to work with a home energy consumption monitoring technology company from Oct 2021 to Dec 2021 whose goal was to help customers understand their household energy consumption, know what is going on in their homes, and ultimately reduce their energy footprint.
 
 With the company business goal in mind formulated the following Problem statement:- Help equip customers with insights about their EVs energy consumption and help predict future charging behavior.
 
