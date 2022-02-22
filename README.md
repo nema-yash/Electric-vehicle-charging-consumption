@@ -1,15 +1,23 @@
 # Investigating EV charging data
 
 
-Introduction:
+**Introduction:**
 
-Got an opportunity to work with a home energy consumption monitoring technology company from Oct 2021 to Dec 2021 whose goal was to help customers understand their household energy consumption, know what is going on in their homes, and ultimately reduce their energy footprint.
+Got an opportunity to work with a home energy consumption monitoring technology company through XN project at Northeastern University from Oct 2021 to Dec 2021 whose goal is to help customers understand their household energy consumption, understand their habits, and ultimately reduce their energy footprint and save money.
 
-With the company business goal in mind formulated the following Problem statement:- Help equip customers with insights about their EVs energy consumption and help predict future charging behavior.
+**Problem Statement**
+With the company business goal in mind formulated the following problem statement:- 
+**Help equip customers with insights about their EVs energy consumption and help predict future charging behavior.**
 
-Dataset provided consisted of 1200 Households across the USA with one or more EVs of various brands at each Household. For each EV hourly energy consumption was provided. The dataset lacked consistency and was not uniformly populated for each EV during the time range. Some EVs had data for 6 months, while some EVs had data for just 3-4 hours.
+**Dataset summary**
+1) Dataset provided consisted of 1200 Households across the USA with one or more EVs of various brands for each Household. 
+2) For each EV hourly energy consumption was provided. 
+3) Columns: House number, State, Zip3, Time, EV0:EV3
 
-The inconsistency started by deep diving into the dataset with two EDAs to understand the dataset better and explore factors that could be impacting the energy consumption of an individual car.
+Issues: Being an real life dataset, consisted of the following issues: Was not uniformly populated for each EV during the time range. Some EVs had data for 6 months, while some EVs had data for just 3-4 hours.
+
+Methodology:
+rted by deep diving into the dataset with two EDAs to understand the dataset better and explore factors that could be impacting the energy consumption of an individual car.
 
 Some interesting insights from the EDA performed:
 
