@@ -29,7 +29,7 @@ Hourly EV consumption is impacted by
 5) Charging pattern: Some cars may take charge 50% in 30 minutes and may take another hour for the remaining 50% charge. On the other hand, another car might need 1 hour to charge 50% of the batter and another 1 hour for the remaining 50%.
 6) Battery degradation: As in any electronic device over time the charging pattern may change, and capacity might degrade leading to longer charging times and higher energy consumption.
 
-Please refer to EV Consumption PDF attached in repository to see the EDA summary, Modeling Approach and Results. Designed sample dashboard views with insights and recommendations for customers is part of PDF.
+Please refer to EV Consumption PDF attached in repository to see the EDA summary, Modeling Approach and Results. Designed sample dashboard views with insights and recommendations for customers is part of EV consumption Presentation PDF.
 
 To see solution and visuals refer to EV consumption
 EDA Part 1: https://public.flourish.studio/story/1113717/
