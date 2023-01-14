@@ -33,6 +33,7 @@ Hourly EV consumption is impacted by
 Please refer to EV Consumption PDF attached in the repository to see the EDA summary, Modeling Approach, and Results. Designed sample dashboard views with insights and recommendations for customers as part of the EV consumption Presentation PDF.
 
 To see solutions and visuals refer to EV consumption
+
 EDA Part 1: https://public.flourish.studio/story/1113717/
 
 EDA Part 2: https://public.flourish.studio/story/1113715/
