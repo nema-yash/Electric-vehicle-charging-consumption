@@ -3,7 +3,7 @@
 
 **Introduction:**
 
-Got an opportunity to work with a home energy consumption monitoring technology company through XN project at Northeastern University from Oct 2021 to Dec 2021 whose goal is to help customers understand their household energy consumption, understand their habits, and ultimately reduce their energy footprint and save money.
+Got an opportunity to work with a home energy consumption monitoring technology company through XN project at Northeastern University from Oct 2021 to Dec 2021 whose goal is to help customers understand their household energy consumption, device charging habits, and ultimately reduce their energy footprint and help customers save money.
 
 **Business Objective:**
 
